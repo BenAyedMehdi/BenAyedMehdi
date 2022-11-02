@@ -13,8 +13,8 @@
 
 <!---
 - 📫 How to reach me:  **mehdibenayed97@gmail.com**
---->
 - 🌱 I’m currently learning **Entity Framework Core**
+--->
 
 
 
